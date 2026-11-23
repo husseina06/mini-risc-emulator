@@ -1,0 +1,3 @@
+build
+*.o
+gold_vm/gold_vm
